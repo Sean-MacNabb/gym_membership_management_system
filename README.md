@@ -20,7 +20,6 @@ Install the connector using:
 pip install mysql-connector-python
 ```
 
-Running the Application:
 From the project’s root directory, run:
 ```bash
 python main.py
