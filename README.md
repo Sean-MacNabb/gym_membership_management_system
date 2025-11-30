@@ -26,11 +26,11 @@ python main.py
 ```
 
 ## Project Structure
-db.py - Database connection handler
-main.py - CLI flow logic
-members.py - Member CRUD operations
-memberships.py - Membership CRUD operations
-README.md - Project documentation
+db.py           - Database connection handler
+main.py         - CLI flow logic
+members.py      - Member CRUD operations
+memberships.py  - Membership CRUD operations
+README.md       - Project documentation
 
 ## Future Improvements:
 - Add stricter input validation for numeric fields
